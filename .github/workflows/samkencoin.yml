@@ -1,0 +1,114 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am infinite-skx on github.
+  * I am samkencoin (https://keybase.io/samkencoin) on keybase.
+  * I have a public key ASB7OpEQ95wLQQI55wKiqS0Ydon6bHW9ilyxFa7_NoBEswo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101538571529831675d028386d492c80e93ae3feb8a71bcb2f9dab486cb12ce5e550a",
+      "host": "keybase.io",
+      "kid": "01207b3a9110f79c0b410239e702a2a92d187689fa6c75bd8a5cb115aeff368044b30a",
+      "uid": "a53ff20605cbe5561b3e5e9029cd4a19",
+      "username": "samkencoin"
+    },
+    "merkle_root": {
+      "ctime": 1641893881,
+      "hash": "1a7c52a0991d787356b5e3e9084a4ab7d2a55947a2f8e435927c66f39a4bd6f775ee5329a109a72b6f740c95d893a4e3a4e0fde6f4630f579ddcce62e77dc7e4",
+      "hash_meta": "2e1c240686dee9f2b16091c686aa3368d5c15e4290cede1b3c486071d1a76be4",
+      "seqno": 21608232
+    },
+    "service": {
+      "entropy": "ZBlar774/5SznJWHfVE2kr5C",
+      "name": "github",
+      "username": "infinite-skx"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641893942,
+  "expire_in": 504576000,
+  "prev": "d7e715bab6cc1345b48dc1570c67355849f6e7d4ebeb1a13f8860dd88ec77ec4",
+  "seqno": 39,
+  "tag": "signature"
+}
+```
+
+with the key [ASB7OpEQ95wLQQI55wKiqS0Ydon6bHW9ilyxFa7_NoBEswo](https://keybase.io/samkencoin), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgezqREPecC0ECOecCoqktGHaJ+mx1vYpcsRWu/zaARLMKp3BheWxvYWTESpcCJ8Qg1+cVurbME0W0jcFXDGc1WEn259Tr6xoT+IYN2I7HfsTEIEPyKt1w2Yc+NZZ/WetQ2/oNzx3Jv8jkKgJwD/odDe0KAgHCo3NpZ8RALSgDgbz8vwh5XzFvSvuYT3aFCtiHcJAyyLOOmZlQT/fm/X8Klf13uay584P3jOlQKmzvmjlWgjC+DI8HKqLFC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDUWldlsEvA0P4B8g95p9/fvIS115dDgGhhYEOKFSj2fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly
+# This workflow run PhoenixDOMConfiguration and PhoenixDOMAutomationstart with Actions
+# Auto-call API's sync projects for configurations and build automations,
+# Auto-call PhoenixDOMSamkencoinProtocol PhoenixDOMNetwork PhoenixDOMDecentralization updates
+# Auto-call PhoenixDOMNodeAPIs PhoenixDOMCredentialPool PhoenixDOMProjects for PhoenixDOMSynchronization.json automation updates
+# Auto-call PhoenixDOMHardwareDevice to auto-set PhoenixDOMHardwareDeviceSoleOwnership.json and PhoenicDOMPoolCredentialSecurityAudit
+# Auto-call PhoenixDOMPrivacyPolicy and PhoenixDOMPropertyPolicy strict PhoenixDOMImplementation with PhoenixDOMSecutityMathematicalAlgorithm
+# Auto-implement strict.json PhoenixDOMSecurityMathematicalAlgorithm per PhoenixDOMDeviceOwnership sole access
+# Auto-create.js PhoenixDOMSamkencoinBlockchain-DecentralizeNetwork Certificate and whitepaper with PhoenixDOMSecurityEncryption
+# Auto-sync PhoenixDOMNetworkCertificate,PhoenixDOMSmartContracts and PhoenixDOMWhitepaper to PhoenixDOMSamkencoinCoreProtocol-DecentralizeNetwork
+# Update PhoenixDOMXml, PhoenixDOMUtf-8 ,PhoenixDOMHsts,PhoenixDOMTls and PhoenixDOMHttp for optimization  to sync PhoenixDOMIdentity and PhoenixDOMDevice-apps-files-specs
+# Auto-implement PhoenixDOMFix.json ,PhoenixDOMcleanup.json and PhoenixDOMResolver.json PhoenixDOMMagicalEnhancent.json PhoenixDOMSecurityChangelog-updater
+# Auto-update PhoenixDOMRebuilt.json  and PhoenixDOMUpgrade simulate function implementation and  build.json PhoenixDOMCoreSecurity Layer-Samkencoin-upgrade.json
+# Update Phoenix-Hierarchy PhoenixDOMBot-martial history PhoenixDOMTrace-Audit.json
+# Auto-call hierarchical Samkencoin-APIs.json update Samkencoin-dns.json and Android-Samkencoin-nameserver .js
+#.Auto-call APIs.json synchronization generate Samkencoin-web.js build automation
+# Auto-update Samkencoincore-Protocol projects API.json sync for auto-generate docker-image and update.json/upgrade.json configuration
+# Sync automation memory-card-disk.json simulate PhoenixDOMNode into system and decenttralized network
+# Update android vivo clouds auto-uprade.json simulates more system space and and synchronize with decentralized network 
+# Auto-build.json software update  for system optimization with enhanced security decentralization upgrade.json generates implement with Phoenix Hierarchy martial-bot
+# Auto-initiate fix.json to clean up,remove,update Samkencoin-Android full decentralized system , software and apps,
+# Auto-generate uid and automation update for upgraded,full secured and synchronized
+# Auto-update setup Samkencoin gcloud configurations sync projects API
+# Auto-update Samkencoin memory card management configurations
+
+name: Samkencoin CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
